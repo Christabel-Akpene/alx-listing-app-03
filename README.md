@@ -1,4 +1,4 @@
-# ALX Listing App
+# ALX Booking App
 
 ## 📖 Project Overview
 **ALX Booking App** is a  clone of **Airbnb Booking Page**, designed to showcase property listings in a clean and responsive interface.
