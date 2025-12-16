@@ -1,7 +1,7 @@
 # ALX Listing App
 
 ## 📖 Project Overview
-**ALX Listing App** is a  clone of **Airbnb Listing Page**, designed to showcase property listings in a clean and responsive interface.
+**ALX Booking App** is a  clone of **Airbnb Booking Page**, designed to showcase property listings in a clean and responsive interface.
 
 ## Project Structure
 ```
@@ -30,7 +30,7 @@
 
 ###  Clone the Repository
 ```bash
-git clone https://github.com/your-username/alx-listing-app.git
+git clone https://github.com/Christabel-Akpene/alx-listing-app-03.git
 cd alx-listing-app
 ```
 
